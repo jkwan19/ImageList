@@ -8,7 +8,7 @@ const ImageList = ({
   const displayImages = images.map(image => {
     return (
         <ImageCard
-          id={image.id}
+          key={image.id}
           image={image}
         />
       )
