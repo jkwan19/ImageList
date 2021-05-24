@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# ImageList
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description 
+
+A react web application that pulls images from unsplash API and loads them onto a list to display.
 
 ## Available Scripts
 
